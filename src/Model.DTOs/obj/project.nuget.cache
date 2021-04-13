@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "usjiQbIOD1rBf+yYfEmnnLNwQMXEz2ZiNRbGR9SequBvSvDmS9zsKBnflDS7E3d5U8kTmSNStWgrcgSjWzK47A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Aviv\\Desktop\\API\\SpaSolution\\src\\Model.DTOs\\Model.DTOs.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Aviv\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.0.1\\microsoft.aspnetcore.app.ref.3.0.1.nupkg.sha512",
+    "C:\\Users\\Aviv\\.nuget\\packages\\microsoft.netcore.app.ref\\3.0.0\\microsoft.netcore.app.ref.3.0.0.nupkg.sha512",
+    "C:\\Users\\Aviv\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.0.0\\microsoft.windowsdesktop.app.ref.3.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

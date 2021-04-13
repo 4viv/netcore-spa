@@ -1,0 +1,16 @@
+C:\Users\Aviv\Desktop\API\SpaSolution\src\Service\bin\Debug\netcoreapp3.0\Service.deps.json
+C:\Users\Aviv\Desktop\API\SpaSolution\src\Service\bin\Debug\netcoreapp3.0\Service.dll
+C:\Users\Aviv\Desktop\API\SpaSolution\src\Service\bin\Debug\netcoreapp3.0\Service.pdb
+C:\Users\Aviv\Desktop\API\SpaSolution\src\Service\bin\Debug\netcoreapp3.0\Model.dll
+C:\Users\Aviv\Desktop\API\SpaSolution\src\Service\bin\Debug\netcoreapp3.0\Model.DTOs.dll
+C:\Users\Aviv\Desktop\API\SpaSolution\src\Service\bin\Debug\netcoreapp3.0\Persistence.Database.dll
+C:\Users\Aviv\Desktop\API\SpaSolution\src\Service\bin\Debug\netcoreapp3.0\Model.DTOs.pdb
+C:\Users\Aviv\Desktop\API\SpaSolution\src\Service\bin\Debug\netcoreapp3.0\Persistence.Database.pdb
+C:\Users\Aviv\Desktop\API\SpaSolution\src\Service\bin\Debug\netcoreapp3.0\Model.pdb
+C:\Users\Aviv\Desktop\API\SpaSolution\src\Service\obj\Debug\netcoreapp3.0\Service.csprojAssemblyReference.cache
+C:\Users\Aviv\Desktop\API\SpaSolution\src\Service\obj\Debug\netcoreapp3.0\Service.AssemblyInfoInputs.cache
+C:\Users\Aviv\Desktop\API\SpaSolution\src\Service\obj\Debug\netcoreapp3.0\Service.AssemblyInfo.cs
+C:\Users\Aviv\Desktop\API\SpaSolution\src\Service\obj\Debug\netcoreapp3.0\Service.csproj.CoreCompileInputs.cache
+C:\Users\Aviv\Desktop\API\SpaSolution\src\Service\obj\Debug\netcoreapp3.0\Service.csproj.CopyComplete
+C:\Users\Aviv\Desktop\API\SpaSolution\src\Service\obj\Debug\netcoreapp3.0\Service.dll
+C:\Users\Aviv\Desktop\API\SpaSolution\src\Service\obj\Debug\netcoreapp3.0\Service.pdb

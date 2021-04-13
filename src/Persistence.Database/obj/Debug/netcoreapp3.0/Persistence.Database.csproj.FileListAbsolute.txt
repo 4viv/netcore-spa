@@ -1,0 +1,12 @@
+C:\Users\Aviv\Desktop\API\SpaSolution\src\Persistence.Database\bin\Debug\netcoreapp3.0\Persistence.Database.deps.json
+C:\Users\Aviv\Desktop\API\SpaSolution\src\Persistence.Database\bin\Debug\netcoreapp3.0\Persistence.Database.dll
+C:\Users\Aviv\Desktop\API\SpaSolution\src\Persistence.Database\bin\Debug\netcoreapp3.0\Persistence.Database.pdb
+C:\Users\Aviv\Desktop\API\SpaSolution\src\Persistence.Database\bin\Debug\netcoreapp3.0\Model.dll
+C:\Users\Aviv\Desktop\API\SpaSolution\src\Persistence.Database\bin\Debug\netcoreapp3.0\Model.pdb
+C:\Users\Aviv\Desktop\API\SpaSolution\src\Persistence.Database\obj\Debug\netcoreapp3.0\Persistence.Database.csprojAssemblyReference.cache
+C:\Users\Aviv\Desktop\API\SpaSolution\src\Persistence.Database\obj\Debug\netcoreapp3.0\Persistence.Database.AssemblyInfoInputs.cache
+C:\Users\Aviv\Desktop\API\SpaSolution\src\Persistence.Database\obj\Debug\netcoreapp3.0\Persistence.Database.AssemblyInfo.cs
+C:\Users\Aviv\Desktop\API\SpaSolution\src\Persistence.Database\obj\Debug\netcoreapp3.0\Persistence.Database.csproj.CoreCompileInputs.cache
+C:\Users\Aviv\Desktop\API\SpaSolution\src\Persistence.Database\obj\Debug\netcoreapp3.0\Persistence.Database.csproj.CopyComplete
+C:\Users\Aviv\Desktop\API\SpaSolution\src\Persistence.Database\obj\Debug\netcoreapp3.0\Persistence.Database.dll
+C:\Users\Aviv\Desktop\API\SpaSolution\src\Persistence.Database\obj\Debug\netcoreapp3.0\Persistence.Database.pdb

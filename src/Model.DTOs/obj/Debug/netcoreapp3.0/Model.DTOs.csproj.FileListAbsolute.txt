@@ -1,0 +1,9 @@
+C:\Users\Aviv\Desktop\API\SpaSolution\src\Model.DTOs\bin\Debug\netcoreapp3.0\Model.DTOs.deps.json
+C:\Users\Aviv\Desktop\API\SpaSolution\src\Model.DTOs\bin\Debug\netcoreapp3.0\Model.DTOs.dll
+C:\Users\Aviv\Desktop\API\SpaSolution\src\Model.DTOs\bin\Debug\netcoreapp3.0\Model.DTOs.pdb
+C:\Users\Aviv\Desktop\API\SpaSolution\src\Model.DTOs\obj\Debug\netcoreapp3.0\Model.DTOs.csprojAssemblyReference.cache
+C:\Users\Aviv\Desktop\API\SpaSolution\src\Model.DTOs\obj\Debug\netcoreapp3.0\Model.DTOs.AssemblyInfoInputs.cache
+C:\Users\Aviv\Desktop\API\SpaSolution\src\Model.DTOs\obj\Debug\netcoreapp3.0\Model.DTOs.AssemblyInfo.cs
+C:\Users\Aviv\Desktop\API\SpaSolution\src\Model.DTOs\obj\Debug\netcoreapp3.0\Model.DTOs.csproj.CoreCompileInputs.cache
+C:\Users\Aviv\Desktop\API\SpaSolution\src\Model.DTOs\obj\Debug\netcoreapp3.0\Model.DTOs.dll
+C:\Users\Aviv\Desktop\API\SpaSolution\src\Model.DTOs\obj\Debug\netcoreapp3.0\Model.DTOs.pdb

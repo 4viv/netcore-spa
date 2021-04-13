@@ -1,0 +1,9 @@
+C:\Users\Aviv\Desktop\API\SpaSolution\src\Model\bin\Debug\netcoreapp3.0\Model.deps.json
+C:\Users\Aviv\Desktop\API\SpaSolution\src\Model\bin\Debug\netcoreapp3.0\Model.dll
+C:\Users\Aviv\Desktop\API\SpaSolution\src\Model\bin\Debug\netcoreapp3.0\Model.pdb
+C:\Users\Aviv\Desktop\API\SpaSolution\src\Model\obj\Debug\netcoreapp3.0\Model.csprojAssemblyReference.cache
+C:\Users\Aviv\Desktop\API\SpaSolution\src\Model\obj\Debug\netcoreapp3.0\Model.AssemblyInfoInputs.cache
+C:\Users\Aviv\Desktop\API\SpaSolution\src\Model\obj\Debug\netcoreapp3.0\Model.AssemblyInfo.cs
+C:\Users\Aviv\Desktop\API\SpaSolution\src\Model\obj\Debug\netcoreapp3.0\Model.csproj.CoreCompileInputs.cache
+C:\Users\Aviv\Desktop\API\SpaSolution\src\Model\obj\Debug\netcoreapp3.0\Model.dll
+C:\Users\Aviv\Desktop\API\SpaSolution\src\Model\obj\Debug\netcoreapp3.0\Model.pdb
