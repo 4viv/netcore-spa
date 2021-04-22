@@ -43,6 +43,10 @@
             "AutoMapper": {
               "target": "Package",
               "version": "[9.0.0, )"
+            },
+            "Microsoft.AspNetCore.SpaServices.Extensions": {
+              "target": "Package",
+              "version": "[3.0.3, )"
             }
           },
           "imports": [

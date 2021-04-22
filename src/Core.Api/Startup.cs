@@ -28,7 +28,16 @@ namespace Core.Api
         public void ConfigureServices(IServiceCollection services)
         {
             services.AddControllers();
-            ///////// ================================////////////
+
+            ///////// == Activando los cores ==////////////
+            services.AddCors(options => {
+                options.AddPolicy("AllowSpecificOrigin", builder =>
+                    builder.AllowAnyHeader()
+                           .AllowAnyMethod()
+                           .AllowAnyOrigin()
+                );
+            });
+            
             /// Configurando la cadena de conexion
             services.AddDbContext<ApplicationDbContext>(
                 opts => opts.UseSqlServer(Configuration.GetConnectionString("DefaultConnection"))
@@ -89,6 +98,7 @@ namespace Core.Api
                 app.UseDeveloperExceptionPage();
             }
 
+            app.UseCors("AllowSpecificOrigin"); // Activamos los cors
             app.UseRouting();
 
             app.UseAuthentication(); // Se implementa la autenticacion

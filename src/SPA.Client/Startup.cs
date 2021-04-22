@@ -16,6 +16,8 @@ namespace SPA.Client
         // For more information on how to configure your application, visit https://go.microsoft.com/fwlink/?LinkID=398940
         public void ConfigureServices(IServiceCollection services)
         {
+            // Abilitamos los controladores resfull
+            services.AddControllers();
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
@@ -27,14 +29,18 @@ namespace SPA.Client
             }
 
             app.UseRouting();
-
+            // mapeamos los controladores para que cargue por defecto appsetings
             app.UseEndpoints(endpoints =>
             {
-                endpoints.MapGet("/", async context =>
-                {
-                    await context.Response.WriteAsync("Hello World!");
-                });
+                endpoints.MapControllers();
             });
+
+            // Microsoft.AspNetCore.SpaServices.E
+            app.UseSpa(spa =>
+            {
+                spa.UseProxyToSpaDevelopmentServer("http://localhost:8080/");
+            });
+
         }
     }
 }
